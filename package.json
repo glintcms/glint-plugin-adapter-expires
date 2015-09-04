@@ -1,0 +1,29 @@
+{
+  "name": "glint-plugin-adapter-expires",
+  "version": "1.0.0",
+  "description": "Expires | Time To Live (ttl) Attribute Adapter Plugin",
+  "main": "index.js",
+  "browser": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glintcms/glint-plugin-adapter-expires.git"
+  },
+  "author": "Andi Neck",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/glintcms/glint-plugin-adapter-expires/issues"
+  },
+  "homepage": "https://github.com/glintcms/glint-plugin-adapter-expires",
+  "keywords": [
+    "glint",
+    "plugin",
+    "adapter",
+    "expires"
+  ]
+}
