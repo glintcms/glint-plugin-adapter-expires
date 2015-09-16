@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-var debug = require('debug')('glint:adapter-plugin-expires');
+var debug = require('debug')('glint-plugin-adapter-expires');
 
 
 /**
